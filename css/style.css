@@ -1,0 +1,53 @@
+/* body{
+  background-color: #24353f;
+} */
+
+.logiDiv{
+  box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+}
+
+/* .mego::placeholder{
+  color: rgba(255, 255, 255, 0.614);
+} */
+
+#logoName {
+  font-family: "Playwrite HR Lijeva", cursive;
+}
+h3{
+  font-family: cursive;
+}
+.imgLogo {
+  width: 100px;
+  height: 100px;
+}
+.emailImg{
+
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+
+}
+.item{
+  width: 40%;
+}
+i{
+  cursor: pointer;
+}
+
+ul{
+
+  
+ 
+  display: inline-block;
+  position: fixed;
+  left: 0px;
+  top: 150px;
+  
+  
+}
+
+ul li {
+  list-style: none;
+  font-family: "Yuji Mai", serif;
+  
+}
